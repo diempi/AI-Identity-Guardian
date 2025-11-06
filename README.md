@@ -27,3 +27,5 @@ To create a privacy-preserving identity verification solution using the **0G sta
 - **Wave 2 (Prototype)**: Smart contract for identity status + basic frontend  
 - **Wave 3 (Working Demo)**: Integration of Storage + Compute, demo of decentralized login  
 - **Final Wave**: Improved version with a concrete KYC or DAO use case  
+
+Still in progress
